@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.jfrog.bintray.client:bintray-client-java-impl:0.1.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jfrog.bintray.client/bintray-client-java-impl/0.1.1/a686457a8dc1b33b6a80b109ba9243c89280fae1/bintray-client-java-impl-0.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jfrog.bintray.client/bintray-client-java-impl/0.1.1/c918cf5ad44f79dd2310bef32aacd4d31b5cd42c/bintray-client-java-impl-0.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
